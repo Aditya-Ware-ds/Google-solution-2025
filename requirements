@@ -1,0 +1,4 @@
+ollama (medllama2)
+sentence-transformers
+faiss-cpu
+pypdf
